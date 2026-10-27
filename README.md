@@ -8,9 +8,10 @@ It is a single HTML file with no dependencies. The map is embedded in the file, 
 
 ## Using it
 
-1. Open `luxembourg-quadrants.html` in any browser.
-2. Type a town or commune, then press Enter or tap **Find**.
-3. Read the cell name, and look at the pin and the highlighted cell on the map.
+1. Download and open `index.html` in any browser.
+   OR: use the online version [https://dankerschen.github.io/lux-finder/](https://dankerschen.github.io/lux-finder/)
+3. Type a town or commune, then press Enter or tap **Find**.
+4. Read the cell name, and look at the pin and the highlighted cell on the map.
 
 Things worth knowing:
 
